@@ -1,0 +1,6 @@
+Recursos utilizados para la realizacion del proyecto 
+
+Articulos: 
+-Rotating Elements with CSS: https://careerkarma.com/blog/css-rotate/
+-How to include a font .ttf using CSS ?: https://www.geeksforgeeks.org/how-to-include-a-font-ttf-using-css/
+-Como poner un footer siempre abajo?: https://youtu.be/PSD5pFi6bx4
