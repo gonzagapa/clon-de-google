@@ -155,7 +155,9 @@ main > *{
 }
 .button:hover, .button:focus{
     /* Se utiliza outline (contorno) ya que no añade espacio en mi boton */
-    outline: 1px solid rgb(233, 232, 232); 
+    outline: 1px solid rgb(255, 255, 255,0); 
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+    color: #222;
 }
 footer{
     width: 100%;
